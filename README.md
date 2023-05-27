@@ -1,2 +1,2 @@
-My first readme
-This carries the shell project done 
+My first ReadMe
+ 
